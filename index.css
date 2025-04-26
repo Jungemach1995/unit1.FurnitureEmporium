@@ -1,0 +1,24 @@
+
+h1 {color:darkgreen}
+
+h2 {color:brown}
+
+.price{color:black;
+
+    text-decoration: underline}
+button {color:brown}
+
+p  {color:cadetblue}
+s {color:blueviolet} 
+  
+.container{ background-color: aqua;
+border: 2px  solid black;
+width:fit-content; width: 350px;
+height: 250px;
+margin: 50px;
+padding 50px;
+border-radius: 20px;
+
+ }
+button {background-color: chartreuse;}
+margin{color:burlywood}
