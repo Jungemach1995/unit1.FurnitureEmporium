@@ -3,22 +3,31 @@ h1 {color:darkgreen}
 
 h2 {color:brown}
 
-.price{color:black;
+.price{color:forestgreen;
+    font-size: 22px;
 
     text-decoration: underline}
-button {color:brown}
+
 
 p  {color:cadetblue}
 s {color:blueviolet} 
   
 .container{ background-color: aqua;
 border: 2px  solid black;
-width:fit-content; width: 350px;
+ width: 600px;
 height: 250px;
 margin: 50px;
 padding 50px;
 border-radius: 20px;
+font-size:18px;
 
  }
-button {background-color: chartreuse;}
-margin{color:burlywood}
+button {background-color: chartreuse;
+width: 180px;
+height: 35px;
+border-radius: 15px;
+font-size: 18px
+}
+
+
+
